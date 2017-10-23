@@ -1,0 +1,4 @@
+1. Buat DATABASE dengan nama "larabook_db"
+2. Export Database
+3. Copy Aplikasi ke folder htdoct
+4. Finish
